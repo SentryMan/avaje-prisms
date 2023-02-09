@@ -27,9 +27,7 @@ package org.example
 ```
 
 
-#### 3. Use the Genrated Prism Classes
-
-
+#### 3. Use the Generated Prism Classes
 
 ```java
  void someFunction(Element element) {
